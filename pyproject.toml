@@ -40,7 +40,7 @@ aiosqlite = "^0.19.0"
 argcomplete = "^3.1.4"
 asyauth = ">=0.0.20"
 beautifulsoup4 = ">=4.11,<5"
-bloodhound = { git = "https://github.com/dirkjanm/BloodHound.py", branch = "bloodhound-ce" }
+bloodhound-ce = { git = "https://github.com/dirkjanm/BloodHound.py", branch = "bloodhound-ce" }
 dploot = "^2.7.4"
 dsinternals = "^1.2.4"
 impacket =  { git = "https://github.com/fortra/impacket.git" }
